@@ -6,7 +6,8 @@
   
   <h2> Call Us : + 9985396677</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Ameerpet, Hyderbad </h3> 
+<p> Really amazing tutorial. Thank you Ashok ... </p>
 
 </body>
 </html>
